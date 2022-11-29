@@ -13,9 +13,11 @@ make
 ./matMul
 ```
 
-### Chinese Help Doc（中文帮助文档）
-[GPU内存(显存)的理解与基本使用](https://zhuanlan.zhihu.com/p/462191421)
+### Chinese Help Doc锛堜腑鏂囧府鍔╂枃妗ｏ級
+[GPU鍐呭瓨(鏄惧瓨)鐨勭悊瑙ｄ笌鍩烘湰浣跨敤](https://zhuanlan.zhihu.com/p/462191421)
 
-[CUDA编程：矩阵乘运算从CPU到GPU](https://zhuanlan.zhihu.com/p/573271688)
+[CUDA缂栫▼锛氱煩闃典箻杩愮畻浠嶤PU鍒癎PU](https://zhuanlan.zhihu.com/p/573271688)
 
-[PyTorch自定义CUDA/C++](https://zhuanlan.zhihu.com/p/579395211)
+[PyTorch鑷畾涔塁UDA/C++](https://zhuanlan.zhihu.com/p/579395211)
+
+Ref: https://zhuanlan.zhihu.com/p/462191421
